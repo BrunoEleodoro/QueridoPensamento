@@ -1,5 +1,30 @@
 [
     {
+        "frase":"Amor será dar de presente ao outro a própria solidão? Pois é a última coisa que se pode dar de si.",
+        "autor":"Fernando Pessoa",
+        "data":"20/11/2018"
+     },
+     {
+        "frase":"Não sei amar pela metade. Não sei viver de mentira. Não sei voar de pés no chão. Sou sempre eu mesma, mas com certeza não serei a mesma para sempre.",
+        "autor":"Fernando Pessoa",
+        "data":"20/11/2018"
+     },
+     {
+        "frase":"E o amor, em vez de dar, exige. E quem gosta de nós quer que sejamos alguma coisa que eles precisam.",
+        "autor":"Fernando Pessoa",
+        "data":"20/11/2018"
+     },
+     {
+        "frase":"Amor é quando é concedido participar um pouco mais.\nAmor é a grande desilusão de tudo mais.\nAmor é finalmente a pobreza.\nAmor é não ter inclusive amor.\nÉ a desilusão do que se pensava que era amor.\nAmor não é prêmio por isso não envaidece.",
+        "autor":"Fernando Pessoa",
+        "data":"20/11/2018"
+     },
+     {
+        "frase":"Oh, não se assuste, às vezes, a gente mata por amor, mas eu juro que um dia a gente esquece, juro",
+        "autor":"Fernando Pessoa",
+        "data":"20/11/2018"
+     },
+    {
         "frase": "O amor não se vê com os olhos mas com o coração.",
         "autor": "William Shakespeare",
         "data": "21/11/2018"
@@ -238,30 +263,6 @@
         "frase":"Todos os dias, quando acordo, vou correndo tirar a poeira da palavra amor...\"",
         "autor":"Fernando Pessoa",
         "data":"30/11/2018"
-     },
-     {
-        "frase":"Amor será dar de presente ao outro a própria solidão? Pois é a última coisa que se pode dar de si.",
-        "autor":"Fernando Pessoa",
-        "data":"01/12/2018"
-     },
-     {
-        "frase":"Não sei amar pela metade. Não sei viver de mentira. Não sei voar de pés no chão. Sou sempre eu mesma, mas com certeza não serei a mesma para sempre.",
-        "autor":"Fernando Pessoa",
-        "data":"01/12/2018"
-     },
-     {
-        "frase":"E o amor, em vez de dar, exige. E quem gosta de nós quer que sejamos alguma coisa que eles precisam.",
-        "autor":"Fernando Pessoa",
-        "data":"01/12/2018"
-     },
-     {
-        "frase":"Amor é quando é concedido participar um pouco mais.\nAmor é a grande desilusão de tudo mais.\nAmor é finalmente a pobreza.\nAmor é não ter inclusive amor.\nÉ a desilusão do que se pensava que era amor.\nAmor não é prêmio por isso não envaidece.",
-        "autor":"Fernando Pessoa",
-        "data":"01/12/2018"
-     },
-     {
-        "frase":"Oh, não se assuste, às vezes, a gente mata por amor, mas eu juro que um dia a gente esquece, juro",
-        "autor":"Fernando Pessoa",
-        "data":"01/12/2018"
      }
+     
 ]
