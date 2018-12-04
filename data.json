@@ -264,5 +264,34 @@
         "autor":"Fernando Pessoa",
         "data":"30/11/2018"
      }
-     
+     ,
+     {
+        "frase":"Não espere o incentivo dos outros. O primeiro a acreditar no seu sonho tem que ser você.",
+        "autor":"Autor desconhecido",
+        "data":"04/12/2018"
+     }
+     ,
+     {
+        "frase":"A vida é maravilhosa se não se tem medo dela.",
+        "autor":"Charles Chaplin",
+        "data":"04/12/2018"
+     }
+     ,
+     {
+        "frase":"Você não pode evitar que os problemas batam á sua porta. Mas não há necessidade de oferecer-lhes uma cadeira para sentar",
+        "autor":"Joseph Joubert",
+        "data":"04/12/2018"
+     }
+     ,
+     {
+        "frase":"Se matamos uma pessoa somos assassinos. Se matamos milhões de homens, celebram-nos como heróis.",
+        "autor":"Charles Chaplin",
+        "data":"04/12/2018"
+     }
+     ,
+     {
+        "frase":"Depois de passar pela escuridão você descobre que a luz não está no fim do túnel. Está dentro de você.",
+        "autor":"Autor desconhecido",
+        "data":"04/12/2018"
+     }
 ]
