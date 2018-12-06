@@ -1,297 +1,127 @@
 [
-    {
-        "frase":"Amor será dar de presente ao outro a própria solidão? Pois é a última coisa que se pode dar de si.",
-        "autor":"Fernando Pessoa",
-        "data":"20/11/2018"
-     },
-     {
-        "frase":"Não sei amar pela metade. Não sei viver de mentira. Não sei voar de pés no chão. Sou sempre eu mesma, mas com certeza não serei a mesma para sempre.",
-        "autor":"Fernando Pessoa",
-        "data":"20/11/2018"
-     },
-     {
-        "frase":"E o amor, em vez de dar, exige. E quem gosta de nós quer que sejamos alguma coisa que eles precisam.",
-        "autor":"Fernando Pessoa",
-        "data":"20/11/2018"
-     },
-     {
-        "frase":"Amor é quando é concedido participar um pouco mais.\nAmor é a grande desilusão de tudo mais.\nAmor é finalmente a pobreza.\nAmor é não ter inclusive amor.\nÉ a desilusão do que se pensava que era amor.\nAmor não é prêmio por isso não envaidece.",
-        "autor":"Fernando Pessoa",
-        "data":"20/11/2018"
-     },
-     {
-        "frase":"Oh, não se assuste, às vezes, a gente mata por amor, mas eu juro que um dia a gente esquece, juro",
-        "autor":"Fernando Pessoa",
-        "data":"20/11/2018"
-     },
-    {
-        "frase": "O amor não se vê com os olhos mas com o coração.",
-        "autor": "William Shakespeare",
-        "data": "21/11/2018"
-    },
-    {
-        "frase": "Um coração feliz é o resultado inevitável de um coração ardente de amor.",
-        "autor": "Madre Teresa de Calcutá",
-        "data": "21/11/2018"
-    },
-    {
-        "frase": "Lutar pelo amor é bom, mas alcançá-lo sem luta é melhor.",
-        "autor": "William Shakespeare",
-        "data": "21/11/2018"
-    },
-    {
-        "frase": "Se o amor é fantasia, eu me encontro ultimamente em pleno carnaval.",
-        "autor": "Toquinho e Mutinho",
-        "data": "21/11/2018"
-    },
-    {
-        "frase": "A distância faz ao amor aquilo que o vento faz ao fogo: apaga o pequeno, inflama o grande.",
-        "autor": "Roger Bussy-Rabutin",
-        "data": "21/11/2018"
-    },
-    {
-        "frase": "Amai, porque nada melhor para a saúde que um amor correspondido.",
-        "autor": "Vinicius de Moraes",
-        "data": "22/11/2018"
-    },
-    {
-        "frase": "A medida do amor é amar sem medida.",
-        "autor": "Santo Agostinho",
-        "data": "22/11/2018"
-    },
-    {
-        "frase": "Amar não é olhar um para o outro, é olhar juntos na mesma direção.",
-        "autor": "Antoine de Saint-Exupéry",
-        "data": "22/11/2018"
-    },
-    {
-        "frase": "Como são sábios aqueles que se entregam às loucuras do amor!",
-        "autor": "Jo. Cooke",
-        "data": "22/11/2018"
-    },
-    {
-        "frase": "Vós, que sofreis, porque amais, amai ainda mais. Morrer de amor é viver dele.",
-        "autor": "Victor Hugo",
-        "data": "22/11/2018"
-    },
-    {
-        "frase": "Nada é pequeno no amor. Quem espera as grandes ocasiões para provar a sua ternura não sabe amar.",
-        "autor": "Laure Conan",
-        "data": "23/11/2018"
-    },
-    {
-        "frase": "O amor é a força mais sutil do mundo.",
-        "autor": "Mahatma Gandhi",
-        "data": "23/11/2018"
-    },
-    {
-        "frase": "A suprema felicidade da vida é ter a convicção de que somos amados.",
-        "autor": "Victor Hugo",
-        "data": "23/11/2018"
-    },
-    {
-        "frase": "Nunca deixe ninguém te dizer que não pode fazer alguma coisa. Se você tem um sonho tem que correr atrás dele. As pessoas não conseguem vencer e dizem que você também não vai vencer. Se você quer uma coisa corre atrás.",
-        "autor": "À Procura da Felicidade",
-        "data": "24/11/2018"
-    },
-    {
-        "frase": "As pessoas costumam dizer que a motivação não dura sempre. Bem, nem o efeito do banho, por isso recomenda-se diariamente.",
-        "autor": "Zig Ziglar",
-        "data": "24/11/2018"
-    },
-    {
-        "frase": "Motivação é a arte de fazer as pessoas fazerem o que você quer que elas façam porque elas o querem fazer.",
-        "autor": "Dwight Eisenhower",
-        "data": "24/11/2018"
-    },
-    {
-        "frase": "Toda ação humana, quer se torne positiva ou negativa, precisa depender de motivação.",
-        "autor": "Dalai Lama",
-        "data": "24/11/2018"
-    },
-    {
-        "frase": "A verdadeira motivação vem de realização, desenvolvimento pessoal, satisfação no trabalho e reconhecimento.",
-        "autor": "Frederick Herzberg",
-        "data": "24/11/2018"
-    },
-    {
-        "frase": "A amizade desenvolve a felicidade e reduz o sofrimento, duplicando a nossa alegria e dividindo a nossa dor.",
-        "autor": "Joseph Addison",
-        "data": "25/11/2018"
-    },
-    {
-        "frase": "Saber encontrar a alegria na alegria dos outros, é o segredo da felicidade.",
-        "autor": "Georges Bernanos",
-        "data": "25/11/2018"
-    },
-    {
-        "frase": "A alegria de fazer o bem é a única felicidade verdadeira.",
-        "autor": "Leon Tolstói",
-        "data": "25/11/2018"
-    },
-    {
-        "frase": "O segredo da felicidade é encontrar a nossa alegria na alegria dos outros.",
-        "autor": "Alexandre Herculano",
-        "data": "25/11/2018"
-    },
-    {
-        "frase": "Uma alegria tumultuosa anuncia uma felicidade medíocre e breve.",
-        "autor": "Plutarco",
-        "data": "25/11/2018"
-    },
-    {
-        "frase": "A verdadeira felicidade vem da alegria de atos bem feitos, do sabor de criar coisas renovadas.",
-        "autor": "Antoine de Saint-Exupéry",
-        "data": "26/11/2018"
-    },
-    {
-        "frase": "Ser feliz sem motivo é a mais autêntica forma de felicidade.",
-        "autor": "Carlos Drummond de Andrade",
-        "data": "26/11/2018"
-    },
-    {
-        "frase": "Não existe um caminho para a felicidade. A felicidade é o caminho.",
-        "autor": "Thich Nhat Hanh",
-        "data": "26/11/2018"
-    },
-    {
-        "frase": "Muitas pessoas perdem as pequenas alegrias enquanto aguardam a grande felicidade.",
-        "autor": "Pearl S. Buck",
-        "data": "26/11/2018"
-    },
-    {
-        "frase": "A alegria evita mil males e prolonga a vida.",
-        "autor": "William Shakespeare",
-        "data": "26/11/2018"
-    },
-    {
-        "frase": "A alegria está na luta, na tentativa, no sofrimento envolvido e não na vitória propriamente dita.",
-        "autor": "Mahatma Gandhi",
-        "data": "27/11/2018"
-    },
-    {
-        "frase": "Aquele que nunca viu a tristeza, nunca reconhecerá a alegria.",
-        "autor": "Khalil Gibran",
-        "data": "27/11/2018"
-    },
-    {
-        "frase": "Dialética\n\nÉ claro que a vida é boa \nE a alegria, a única indizível emoção \nÉ claro que te acho linda \nEm ti bendigo o amor das coisas simples \nÉ claro que te amo \nE tenho tudo para ser feliz \n\nMas acontece que eu sou triste...",
-        "autor": "Vinicius de Moraes",
-        "data": "27/11/2018"
-    },
-    {
-        "frase": "A alegria não está nas coisas, está em nós.",
-        "autor": "Johann Goethe",
-        "data": "27/11/2018"
-    },
-    {
-        "frase": "Deus nunca perturba a alegria dos seus filhos se não for para lhes preparar uma mais certa e maior.",
-        "autor": "Alessandro Manzoni",
-        "data": "27/11/2018"
-    },
-    {
-        "frase":"Amar os outros é a única salvação individual que conheço: ninguém estará perdido se der amor e às vezes receber amor em troca.",
-        "autor":"Fernando Pessoa",
-        "data":"28/11/2018"
-     },
-     {
-        "frase":"Nada do que eu já fiz me agrada. E o que eu fiz com amor, estraçalhou-se. Nem amar eu sabia, nem amar eu sabia.",
-        "autor":"Fernando Pessoa",
-        "data":"28/11/2018"
-     },
-     {
-        "frase":"Porque eu fazia do amor um cálculo matemático errado: pensava que, somando as compreensões, eu amava. Não sabia que, somando as incompreensões é que se ama verdadeiramente. Porque eu, só por ter tido carinho, pensei que amar é fácil.",
-        "autor":"Fernando Pessoa",
-        "data":"28/11/2018"
-     },
-     {
-        "frase":"Porque eu fazia do amor um cálculo matemático errado: pensava que, somando as compreensões, eu amava. Não sabia que, somando as incompreensões é que se ama verdadeiramente.",
-        "autor":"Fernando Pessoa",
-        "data":"28/11/2018"
-     },
-     {
-        "frase":"(...) farei o possível para não amar demais as pessoas, sobretudo por causa das pessoas. Às vezes o amor que se dá pesa, quase como uma responsabilidade na pessoa que o recebe. Eu tenho essa tendência geral para exagerar, e resolvi tentar não exigir dos outros senão o mínimo. É uma forma de paz...",
-        "autor":"Fernando Pessoa",
-        "data":"28/11/2018"
-     },
-     {
-        "frase":"Porque eu, só por ter tido carinho, pensei que amar é fácil.",
-        "autor":"Fernando Pessoa",
-        "data":"29/11/2018"
-     },
-     {
-        "frase":"Não tenho tempo pra mais nada, ser feliz me consome muito.",
-        "autor":"Fernando Pessoa",
-        "data":"29/11/2018"
-     },
-     {
-        "frase":"ISSO É MUITA SABEDORIA\nQuando fazemos tudo para que nos amem e não conseguimos, resta-nos um último recurso: não fazer mais nada. Por isso, digo, quando não obtivermos o amor, o afeto ou a ternura que havíamos solicitado, melhor será desistirmos e procurar mais adiante os sentimentos que nos negaram. Não fazer esforços inúteis, pois o amor nasce, ou não, espontaneamente, mas nunca por força de imposição. Às vezes, é inútil esforçar-se demais, nada se consegue; outras vezes, nada damos e o amor se rende aos nossos pés. Os sentimentos são sempre uma surpresa. Nunca foram uma caridade mendigada, uma compaixão ou um favor concedido. Quase sempre amamos a quem nos ama mal, e desprezamos quem melhor nos quer. Assim, repito, quando tivermos feito tudo para conseguir um amor, e falhado, resta-nos um só caminho... o de mais nada fazer.",
-        "autor":"Fernando Pessoa",
-        "data":"29/11/2018"
-     },
-     {
-        "frase":"Fique de vez em quando só, senão você será submergido. Até o amor excessivo dos outros pode submergir uma pessoa.",
-        "autor":"Fernando Pessoa",
-        "data":"29/11/2018"
-     },
-     {
-        "frase":"Não me lembro mais qual foi nosso começo. Sei que não começamos pelo começo. Já era amor antes de ser.",
-        "autor":"Fernando Pessoa",
-        "data":"29/11/2018"
-     },
-     {
-        "frase":"O amor é tão mais fatal do que eu havia pensado, o amor é tão inerente quanto a própria carência, e nós somos garantidos por uma necessidade que se renovará continuamente. O amor já está, está sempre. Falta apenas o golpe da graça - que se chama paixão.",
-        "autor":"Fernando Pessoa",
-        "data":"30/11/2018"
-     },
-     {
-        "frase":"Mas há a vida que é para ser intensamente vivida. Há o amor. Que tem que ser vivido até a última gota. Sem nenhum medo. Não mata.",
-        "autor":"Fernando Pessoa",
-        "data":"30/11/2018"
-     },
-     {
-        "frase":"Mas tantos defeitos tenho. Sou inquieta, ciumenta, áspera, desesperançosa. Embora amor dentro de mim eu tenha... Só que não sei usar amor: às vezes parecem farpas...",
-        "autor":"Fernando Pessoa",
-        "data":"30/11/2018"
-     },
-     {
-        "frase":"Onde aprender a odiar para não morrer de amor?",
-        "autor":"Fernando Pessoa",
-        "data":"30/11/2018"
-     },
-     {
-        "frase":"Todos os dias, quando acordo, vou correndo tirar a poeira da palavra amor...\"",
-        "autor":"Fernando Pessoa",
-        "data":"30/11/2018"
-     }
-     ,
-     {
-        "frase":"Não espere o incentivo dos outros. O primeiro a acreditar no seu sonho tem que ser você.",
-        "autor":"Autor desconhecido",
-        "data":"04/12/2018"
-     }
-     ,
-     {
-        "frase":"A vida é maravilhosa se não se tem medo dela.",
-        "autor":"Charles Chaplin",
-        "data":"04/12/2018"
-     }
-     ,
-     {
-        "frase":"Você não pode evitar que os problemas batam á sua porta. Mas não há necessidade de oferecer-lhes uma cadeira para sentar",
-        "autor":"Joseph Joubert",
-        "data":"04/12/2018"
-     }
-     ,
-     {
-        "frase":"Se matamos uma pessoa somos assassinos. Se matamos milhões de homens, celebram-nos como heróis.",
-        "autor":"Charles Chaplin",
-        "data":"04/12/2018"
-     }
-     ,
-     {
-        "frase":"Depois de passar pela escuridão você descobre que a luz não está no fim do túnel. Está dentro de você.",
-        "autor":"Autor desconhecido",
-        "data":"04/12/2018"
-     }
+  {
+    "frase": "A ambição é o último recurso do fracassado.",
+    "autor": "Oscar Wilde",
+    "data": "07/12/2018"
+  },
+  {
+    "frase": "A cada bela impressão que causamos, conquistamos um inimigo. Para ser popular é indispensável ser medíocre.",
+    "autor": "Oscar Wilde",
+    "data": "07/12/2018"
+  },
+  {
+    "frase": "A vida é muito importante para ser levada a sério.",
+    "autor": "Oscar Wilde",
+    "data": "07/12/2018"
+  },
+  {
+    "frase": "O descontentamento é o primeiro passo na evolução de um homem ou de uma nação.",
+    "autor": "Oscar Wilde",
+    "data": "07/12/2018"
+  },
+  {
+    "frase": "O Estado deve fazer o que é útil. O indivíduo deve fazer o que é belo.",
+    "autor": "Oscar Wilde",
+    "data": "07/12/2018"
+  },
+  {
+    "frase": "O pessimista é uma pessoa que, podendo escolher entre dois males, prefere ambos.",
+    "autor": "Oscar Wilde",
+    "data": "08/12/2018"
+  },
+  {
+    "frase": "Pouca sinceridade é uma coisa perigosa, e muita sinceridade é absolutamente fatal.",
+    "autor": "Oscar Wilde",
+    "data": "08/12/2018"
+  },
+  {
+    "frase": "Quando eu era jovem, pensava que o dinheiro era a coisa mais importante do mundo. Hoje, tenho certeza.",
+    "autor": "Oscar Wilde",
+    "data": "08/12/2018"
+  },
+  {
+    "frase": "Um homem pode viver feliz com qualquer mulher desde que não a ame.",
+    "autor": "Oscar Wilde",
+    "data": "08/12/2018"
+  },
+  {
+    "frase": "Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe.",
+    "autor": "Oscar Wilde",
+    "data": "08/12/2018"
+  },
+  {
+    "frase": "A melhor maneira de começar uma amizade é com uma boa gargalhada. De terminar com ela, também.",
+    "autor": "Oscar Wilde",
+    "data": "09/12/2018"
+  },
+  {
+    "frase": "A forma de governo mais adequada ao artista é a ausência de governo. Autoridade sobre ele e a sua arte é algo de ridículo.",
+    "autor": "Oscar Wilde",
+    "data": "09/12/2018"
+  },
+  {
+    "frase": "Nunca viajo sem o meu diário. É preciso ter sempre algo extraordinário para ler no comboio.",
+    "autor": "Oscar Wilde",
+    "data": "09/12/2018"
+  },
+  {
+    "frase": "As mulheres existem para que as amemos, e não para que as compreendamos.",
+    "autor": "Oscar Wilde",
+    "data": "09/12/2018"
+  },
+  {
+    "frase": "A maquilhagem diz-nos mais que o rosto.",
+    "autor": "Oscar Wilde",
+    "data": "09/12/2018"
+  },
+  {
+    "frase": "Os homens ficam terrivelmente chatos quando são bons maridos, e abominavelmente convencidos quando não o são.",
+    "autor": "Oscar Wilde",
+    "data": "10/12/2018"
+  },
+  {
+    "frase": "Deus, ao criar o homem, superestimou a Sua capacidade.",
+    "autor": "Oscar Wilde",
+    "data": "10/12/2018"
+  },
+  {
+    "frase": "A história da mulher é a história da pior tirania que o mundo conheceu: a tirania do mais fraco sobre o mais forte.",
+    "autor": "Oscar Wilde",
+    "data": "10/12/2018"
+  },
+  {
+    "frase": "Ser grande significa ser incompreendido.",
+    "autor": "Oscar Wilde",
+    "data": "10/12/2018"
+  },
+  {
+    "frase": "Todo mundo é capaz de sentir os sofrimentos de um amigo. Ver com agrado os seus êxitos exige uma natureza muito delicada.",
+    "autor": "Oscar Wilde",
+    "data": "10/12/2018"
+  },
+  {
+    "frase": "Perversidade é um mito inventado por gente boa para explicar o que os outros têm de curiosamente atractivo.",
+    "autor": "Oscar Wilde",
+    "data": "06/12/2018"
+  },
+  {
+    "frase": "Devem-se escolher os amigos pela beleza, os conhecidos pelo caráter e os inimigos pela inteligência.",
+    "autor": "Oscar Wilde",
+    "data": "06/12/2018"
+  },
+  {
+    "frase": "O trabalho é a praga das classes bebedoras.",
+    "autor": "Oscar Wilde",
+    "data": "06/12/2018"
+  },
+  {
+    "frase": "A arte, felizmente, ainda não soube encobrir a verdade.",
+    "autor": "Oscar Wilde",
+    "data": "06/12/2018"
+  },
+  {
+    "frase": "Muita gente estraga a vida com um doentio e exagerado altruísmo.",
+    "autor": "Oscar Wilde",
+    "data": "06/12/2018"
+  }
 ]
