@@ -2,7 +2,7 @@ function downloadAll()
 {
     var tamanho = document.querySelectorAll('[class*="frase fr"]').length
     var i = 0;
-    var tomorrow = new Date("2019-02-06");
+    var tomorrow = new Date("2019-03-12");
    
     var vetor = []
     while(i < tamanho)
