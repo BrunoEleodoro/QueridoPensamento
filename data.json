@@ -4588,5 +4588,805 @@
       "frase":"Quando paramos de lutar deixamos de pensar em vencer.",
       "autor":"Paola Rhoden",
       "data":"05/12/2019"
-   }
+   },
+   {
+        "frase": "Quando vires um homem bom, tenta imitá-lo; quando vires um homem mau, examina-te a ti mesmo.",
+        "autor": "Confúcio",
+        "data": "12/02/2019"
+    },
+    {
+        "frase": "Tente mover o mundo - o primeiro passo será mover a si mesmo.",
+        "autor": "Platão",
+        "data": "12/02/2019"
+    },
+    {
+        "frase": "A religião do futuro será cósmica e transcenderá um Deus pessoal, evitando os dogmas e a teologia.",
+        "autor": "Albert Einstein",
+        "data": "12/02/2019"
+    },
+    {
+        "frase": "Não ser descoberto numa mentira é o mesmo que dizer a verdade.",
+        "autor": "Aristóteles Onassis",
+        "data": "12/02/2019"
+    },
+    {
+        "frase": "Mesmo desacreditado e ignorado por todos, não posso desistir, pois para mim, vencer é nunca desistir.",
+        "autor": "Albert Einstein",
+        "data": "12/02/2019"
+    },
+    {
+        "frase": "Para ver muita coisa é preciso despregar os olhos de si mesmo",
+        "autor": "Friedrich Nietzsche",
+        "data": "13/02/2019"
+    },
+    {
+        "frase": "Duas coisas são infinitas: o universo e a estupidez humana. Mas, em relação ao universo, ainda não tenho certeza absoluta.",
+        "autor": "Albert Einstein",
+        "data": "13/02/2019"
+    },
+    {
+        "frase": "A alegria que se tem em pensar e aprender faz-nos pensar e aprender ainda mais.",
+        "autor": "Aristóteles",
+        "data": "13/02/2019"
+    },
+    {
+        "frase": "Há uma inocência na admiração: é a daquele a quem ainda não passou pela cabeça que também ele poderia um dia ser admirado.",
+        "autor": "Friedrich Nietzsche",
+        "data": "13/02/2019"
+    },
+    {
+        "frase": "Deus está morto: mas, considerando o estado em que se encontra a espécie humana, talvez ainda por um milénio existirão grutas em que se mostrará a sua sombra.",
+        "autor": "Friedrich Nietzsche",
+        "data": "13/02/2019"
+    },
+    {
+        "frase": "Fazer grandes coisas é difícil; mas comandar grandes coisas é ainda mais difícil.",
+        "autor": "Friedrich Nietzsche",
+        "data": "14/02/2019"
+    },
+    {
+        "frase": "Um ancião é uma grande árvore que, já não tendo nem frutos nem folhas, ainda está presa à terra.",
+        "autor": "Voltaire",
+        "data": "14/02/2019"
+    },
+    {
+        "frase": "Na minha vida ainda preciso de discípulos, e se os meus livros não serviram de anzol, falharam a sua intenção. O melhor e essencial só se pode comunicar de homem para homem.",
+        "autor": "Friedrich Nietzsche",
+        "data": "14/02/2019"
+    },
+    {
+        "frase": "Não corrigir nossas falhas é o mesmo que cometer novos erros.",
+        "autor": "Confúcio",
+        "data": "14/02/2019"
+    },
+    {
+        "frase": "O cansaço físico, mesmo que suportado forçosamente, não prejudica o corpo, enquanto o conhecimento imposto à força não pode permanecer na alma por muito tempo.",
+        "autor": "Platão",
+        "data": "14/02/2019"
+    },
+    {
+        "frase": "Se você continua vivo é porque ainda não chegou aonde devia.",
+        "autor": "Albert Einstein",
+        "data": "15/02/2019"
+    },
+    {
+        "frase": "Pode ser que um dia não mais existamos.\nMas, se ainda sobrar amizade,\nnasceremos de novo um para o outro.",
+        "autor": "Albert Einstein",
+        "data": "15/02/2019"
+    },
+    {
+        "frase": "Ainda que o bem que persigo esteja distante, contudo existe.",
+        "autor": "Confúcio",
+        "data": "15/02/2019"
+    },
+    {
+        "frase": "Ninguém pode negar o fato de que Jesus existiu, nem que seus ensinamentos sejam belos. Ainda que alguns deles tenham sido proferidos antes, ninguém os expressou tão divinamente.",
+        "autor": "Albert Einstein",
+        "data": "15/02/2019"
+    },
+    {
+        "frase": "E ainda não és livre, ainda procuras a liberdade. As tuas buscas fizeram-te insone e inquieto de maneira excessiva.",
+        "autor": "Friedrich Nietzsche",
+        "data": "15/02/2019"
+    },
+    {
+        "frase": "Estou longe de conhecer o ateísmo na condição de resultado, menos ainda como conhecimento: em mim ele é compreensível na qualidade de instinto.",
+        "autor": "Friedrich Nietzsche",
+        "data": "16/02/2019"
+    },
+    {
+        "frase": "Uma vez tomada a decisão de não dar ouvidos mesmo aos melhores contra-argumentos: sinal do caráter forte. Também uma ocasional vontade de se ser estúpido.",
+        "autor": "Friedrich Nietzsche",
+        "data": "16/02/2019"
+    },
+    {
+        "frase": "Os problemas significativos que enfrentamos não podem ser resolvidos no mesmo nível de pensamento em que estávamos quando os criámos.",
+        "autor": "Albert Einstein",
+        "data": "16/02/2019"
+    },
+    {
+        "frase": "Devemos nos comportar com os nossos amigos do mesmo modo que gostaríamos que eles se comportassem conosco.",
+        "autor": "Aristóteles",
+        "data": "16/02/2019"
+    },
+    {
+        "frase": "Quando adestramos a nossa consciência, ela beija-nos ao mesmo tempo que nos morde.",
+        "autor": "Friedrich Nietzsche",
+        "data": "16/02/2019"
+    },
+    {
+        "frase": "Sem amigos ninguém escolheria viver, mesmo que tivesse todos os outros bens.",
+        "autor": "Aristóteles",
+        "data": "17/02/2019"
+    },
+    {
+        "frase": "É verdade que se mente com a boca; mas a careta que se faz ao mesmo tempo diz, apesar de tudo, a verdade.",
+        "autor": "Friedrich Nietzsche",
+        "data": "17/02/2019"
+    },
+    {
+        "frase": "Aproximo-me suavemente do momento em que os filósofos e os imbecis têm o mesmo destino.",
+        "autor": "Voltaire",
+        "data": "17/02/2019"
+    },
+    {
+        "frase": "O tempo é relativo e não pode ser medido exatamente do mesmo modo e por toda a parte.",
+        "autor": "Albert Einstein",
+        "data": "17/02/2019"
+    },
+    {
+        "frase": "Quem se despreza a si próprio não deixa mesmo assim de se respeitar como desprezador.",
+        "autor": "Friedrich Nietzsche",
+        "data": "17/02/2019"
+    },
+    {
+        "frase": "Perante nós mesmo todos fingimos ser mais ingénuos do que somos: é deste modo que descansamos dos nossos semelhantes.",
+        "autor": "Friedrich Nietzsche",
+        "data": "18/02/2019"
+    },
+    {
+        "frase": "Todo o divórcio começa mais ou menos ao mesmo tempo que o casamento. O casamento talvez comece algumas semanas mais cedo.",
+        "autor": "Voltaire",
+        "data": "18/02/2019"
+    },
+    {
+        "frase": "Matar um homem para salvar o mundo não é atuar para o bem do mundo. Imolar-se a si mesmo, eis o que é agir bem.",
+        "autor": "Confúcio",
+        "data": "18/02/2019"
+    },
+    {
+        "frase": "No imposto profissional o justo paga mais e o injusto menos, sobre o mesmo rendimento.",
+        "autor": "Platão",
+        "data": "18/02/2019"
+    },
+    {
+        "frase": "Há muito poucas repúblicas no mundo, e mesmo assim elas devem a liberdade aos seus rochedos ou ao mar que as defende. Os homens só raramente são os dignos de se governar a si mesmos.",
+        "autor": "Voltaire",
+        "data": "18/02/2019"
+    },
+    {
+        "frase": "Mesmo os mais perfeitos espíritos terão necessidade de dispor de muito tempo e atenção.",
+        "autor": "René Descartes",
+        "data": "19/02/2019"
+    },
+    {
+        "frase": "Falar muito de sí mesmo, pode ser um jeito de esconder aquilo que realmente é",
+        "autor": "Friedrich Nietzsche",
+        "data": "19/02/2019"
+    },
+    {
+        "frase": "O que o homem superior busca está em si mesmo; o que o homem inferior busca está nos outros.",
+        "autor": "Confúcio",
+        "data": "19/02/2019"
+    },
+    {
+        "frase": "O fantasioso nega a verdade para si mesmo; o mentiroso apenas para os outros.",
+        "autor": "Friedrich Nietzsche",
+        "data": "19/02/2019"
+    },
+    {
+        "frase": "Cada idade tem as suas inclinações, mas o homem é sempre o mesmo. Aos 10 anos é levado por doces; aos 20 por uma amante; aos 30 pelo prazer; aos 40 pela ambição; aos 50 pela avareza.",
+        "autor": "Jean-Jacques Rousseau",
+        "data": "19/02/2019"
+    },
+    {
+        "frase": "\"A primeira e melhor vitória é conquistar a si mesmo.\"",
+        "autor": "Platão",
+        "data": "20/02/2019"
+    },
+    {
+        "frase": "A humildade é a única base sólida de todas as virtudes. Não corrigir nossas faltas é o mesmo que cometer novos erros.",
+        "autor": "Confúcio",
+        "data": "20/02/2019"
+    },
+    {
+        "frase": "Mesmo o mais forte tem seu momento de fatiga.",
+        "autor": "Friedrich Nietzsche",
+        "data": "20/02/2019"
+    },
+    {
+        "frase": "Sejam as leis claras, uniformes e precisas, porque interpretá-las, quase sempre, é o mesmo que corrompê-las.",
+        "autor": "Voltaire",
+        "data": "20/02/2019"
+    },
+    {
+        "frase": "Cem vezes todos os dias lembro a mim mesmo que minha vida interior e exterior, depende dos trabalhos de outros homens, vivos ou mortos, e que devo esforçar-me a fim de devolver na mesma medida que recebi.",
+        "autor": "Albert Einstein",
+        "data": "20/02/2019"
+    },
+    {
+        "frase": "Você é jovem, meu filho, e, com o passar dos anos, o tempo vai mudar e até mesmo reverter muitas das suas opiniões presentes. Abstenha-se, portanto, um tempo de configurar-se como um juiz dos maiores assuntos.",
+        "autor": "Platão",
+        "data": "21/02/2019"
+    },
+    {
+        "frase": "O essencial é estar bem consigo mesmo.",
+        "autor": "Voltaire",
+        "data": "21/02/2019"
+    },
+    {
+        "frase": "Quem rebaixa a si mesmo, quer ser elevado",
+        "autor": "Friedrich Nietzsche",
+        "data": "21/02/2019"
+    },
+    {
+        "frase": "Nenhum problema pode ser resolvido pelo mesmo estado de consciência que o criou.",
+        "autor": "Albert Einstein",
+        "data": "21/02/2019"
+    },
+    {
+        "frase": "Duas almas com um mesmo pensamento. Dois corações que batem como um só.",
+        "autor": "Friedrich Nietzsche",
+        "data": "21/02/2019"
+    },
+    {
+        "frase": "O homem superior busca em si mesmo o que quer, enquanto que o homem inferior busca nos demais.",
+        "autor": "Confúcio",
+        "data": "22/02/2019"
+    },
+    {
+        "frase": "Faz parte da humanidade de um mestre advertir seus alunos contra ele mesmo.",
+        "autor": "Friedrich Nietzsche",
+        "data": "22/02/2019"
+    },
+    {
+        "frase": "Quem de vós pode, ao mesmo tempo, rir e sentir-se elevado?\nAquele que sobe ao monte mais alto, esse ri-se de todas as tragédias, falsas ou verdadeiras.\nCorajosos, despreocupados, escarninhos, violentos ― assim nos quer a sabedoria: ela é mulher e ama somente quem é guerreiro.",
+        "autor": "Friedrich Nietzsche",
+        "data": "22/02/2019"
+    },
+    {
+        "frase": "Ninguém escolheria uma existência sem amigos, mesmo que fossem oferecidas todas as outras coisas do mundo.",
+        "autor": "Aristóteles",
+        "data": "22/02/2019"
+    },
+    {
+        "frase": "A mentira mais frequente é a que se conta para si mesmo; mentir para os outros é relativamente a exceção. (1888)",
+        "autor": "Friedrich Nietzsche",
+        "data": "22/02/2019"
+    },
+    {
+        "frase": "Quando se toma a resolução de tapar os ouvidos mesmo aos mais válidos argumentos contrários, dá-se indícios de caráter forte. Embora isso também signifique eventualmente a vontade levada até a estupidez.",
+        "autor": "Friedrich Nietzsche",
+        "data": "23/02/2019"
+    },
+    {
+        "frase": "\"Fé: fechar os olhos de uma vez por todas para si mesmo, a fim de não sofrer com o aspecto de sua incurável falsidade.",
+        "autor": "Friedrich Nietzsche",
+        "data": "23/02/2019"
+    },
+    {
+        "frase": "A maioria de nós prevere olhar para fora do que paradentro de si mesmo.",
+        "autor": "Albert Einstein",
+        "data": "23/02/2019"
+    },
+    {
+        "frase": "Quem perde o respeito por si mesmo, já não pode mais, também como homem do conhecimento, comandar, conduzir. A menos que quisesse converter-se em grande mentiroso.",
+        "autor": "Friedrich Nietzsche",
+        "data": "23/02/2019"
+    },
+    {
+        "frase": "Como fenômeno estético, a existência é sempre, para nós, suportável ainda.",
+        "autor": "Friedrich Nietzsche",
+        "data": "23/02/2019"
+    },
+    {
+        "frase": "A minha terceira máxima era de sempre tentar vencer mais a mim mesmo do que a fortuna e mudar os meus desejos mais do que a ordem do mundo.",
+        "autor": "René Descartes",
+        "data": "24/02/2019"
+    },
+    {
+        "frase": "Não existe mais ninguém tão inocente para ainda colocar o sujeito EU na condição de´Penso´.",
+        "autor": "Friedrich Nietzsche",
+        "data": "24/02/2019"
+    },
+    {
+        "frase": "A vontade fala ainda quando a natureza se cala.",
+        "autor": "Jean-Jacques Rousseau",
+        "data": "24/02/2019"
+    },
+    {
+        "frase": "O maior castigo consiste em ser governado por alguém ainda pior do que nós, quando não queremos ser nós a governar.",
+        "autor": "Platão",
+        "data": "24/02/2019"
+    },
+    {
+        "frase": "As pessoas que não sabem amar a si mesmo buscam constantemente a aprovação alheia e sofrem quando são rejeitadas. Para quebrar essa dinâmica, devemos admitir que não podemos satisfazer a todos.",
+        "autor": "Friedrich Nietzsche",
+        "data": "24/02/2019"
+    },
+    {
+        "frase": "O hábito de me recolher a mim mesmo acabou por me tornar imune aos males que me acossam, e quase me fez perder a memória deles. Desse modo, aprendi com base na minha própria experiência que não está no poder de outrem fazer com que uma pessoa se sinta miserável quando apenas a própria pode se dar esse luxo.",
+        "autor": "Jean-Jacques Rousseau",
+        "data": "25/02/2019"
+    },
+    {
+        "frase": "O inimigo mais perigoso que você poderá encontrar será sempre você mesmo.",
+        "autor": "Friedrich Nietzsche",
+        "data": "25/02/2019"
+    },
+    {
+        "frase": "Abençoados os que esquecem, porque aproveitam até mesmo seus equívocos.",
+        "autor": "Friedrich Nietzsche",
+        "data": "25/02/2019"
+    },
+    {
+        "frase": "Ouse conquistar a sí mesmo.",
+        "autor": "Friedrich Nietzsche",
+        "data": "25/02/2019"
+    },
+    {
+        "frase": "Escolha sempre o caminho que pareça o melhor, mesmo que seja o mais difícil; o hábito brevemente o tornará fácil e agradável.",
+        "autor": "Pitágoras",
+        "data": "25/02/2019"
+    },
+    {
+        "frase": "Eu vos digo:\nAlguém precisa ter caos em si mesmo\nPara dar luz a uma estrela dançante.",
+        "autor": "Friedrich Nietzsche",
+        "data": "26/02/2019"
+    },
+    {
+        "frase": "Extingue-se o dia para todas as coisas, mesmo para as melhores; chega o crepúsculo.",
+        "autor": "Friedrich Nietzsche",
+        "data": "26/02/2019"
+    },
+    {
+        "frase": "Passa-se com o homem o mesmo que com a árvore. Quanto mais quer crescer para o alto e para a claridade, tanto mais suas raízes tendem para a terra, para baixo, para a treva, para a profundeza - para o mal.",
+        "autor": "Friedrich Nietzsche",
+        "data": "26/02/2019"
+    },
+    {
+        "frase": "O homem crente é necessariamente um homem dependente… Ele não pertence a si mesmo, mas ao autor da idéia em que ele acredita.",
+        "autor": "Friedrich Nietzsche",
+        "data": "26/02/2019"
+    },
+    {
+        "frase": "Na solidão, o solitário devora a si mesmo; Na multidão devoram-no inúmeros. Então escolhe.",
+        "autor": "Friedrich Nietzsche",
+        "data": "26/02/2019"
+    },
+    {
+        "frase": "Siga a tua angústia, ela é o caminho rumo a ti mesmo.",
+        "autor": "Friedrich Nietzsche",
+        "data": "27/02/2019"
+    },
+    {
+        "frase": "Sempre que um homem se dispôs a afastar-se e a isolar-se para se bastar a si mesmo, a filosofia esteve sempre pronta para isolá-lo ainda mais e destruí-lo por meio desse mesmo isolamento.",
+        "autor": "Nietzsche",
+        "data": "27/02/2019"
+    },
+    {
+        "frase": "Você diz que acredita na necessidade da religião. Seja sincero! Você acredita mesmo é na necessidade da polícia.",
+        "autor": "Nietzsche",
+        "data": "27/02/2019"
+    },
+    {
+        "frase": "Pense por você mesmo e deixe que os outros aproveitem o direito de fazer o mesmo.",
+        "autor": "Voltaire",
+        "data": "27/02/2019"
+    },
+    {
+        "frase": "É absolutamente impossível ao sujeito pretender ver ou conhecer algo além de si mesmo;",
+        "autor": "Nietzsche",
+        "data": "27/02/2019"
+    },
+    {
+        "frase": "A única razão para o tempo é para que não aconteça tudo no mesmo instante.",
+        "autor": "Albert Einstein",
+        "data": "28/02/2019"
+    },
+    {
+        "frase": "Sou fadado a, mesmo enquanto caminho na companhia de dois homens quaisquer, aprender com eles. Imito as qualidades de um; os defeitos do outro, corrijo-os em mim mesmo.",
+        "autor": "Confúcio",
+        "data": "28/02/2019"
+    },
+    {
+        "frase": "A vontade de verdade ainda nos há de arrastar para muitas aventuras ,essa célebre veracidade de que todos os filósofos falaram até os dias de hoje com veneração.",
+        "autor": "Friedrich Nietzsche",
+        "data": "28/02/2019"
+    },
+    {
+        "frase": "Todos os caminhos vão ao mesmo lugar! Mas escolha o seu, e vá até o final, não tente percorrer todos os caminhos.",
+        "autor": "Voltaire",
+        "data": "28/02/2019"
+    },
+    {
+        "frase": "O que há de mais cruel ainda é que, como todos os progressos da espécie humana não cessam de afastá-la de seu estado primitivo, quanto mais acumulamos conhecimentos, mais nos privamos dos meios de adquirir o mais importante de todos; e, num certo sentido, é de tanto estudar o homem que nos tornamos incapazes de conhecê-lo.",
+        "autor": "Jean-Jacques Rousseau",
+        "data": "28/02/2019"
+    },
+    {
+        "frase": "O sábio nunca diz tudo o que pensa, mas pensa sempre tudo o que diz.",
+        "autor": "Aristóteles",
+        "data": "01/03/2019"
+    },
+    {
+        "frase": "O ignorante afirma, o sábio duvida, o sensato reflete.",
+        "autor": "Aristóteles",
+        "data": "01/03/2019"
+    },
+    {
+        "frase": "Geralmente aqueles que sabem pouco falam muito e aqueles que sabem muito falam pouco.",
+        "autor": "Jean-Jacques Rousseau",
+        "data": "01/03/2019"
+    },
+    {
+        "frase": "O segredo da criatividade é saber como esconder as fontes.",
+        "autor": "Albert Einstein",
+        "data": "01/03/2019"
+    },
+    {
+        "frase": "O sábio procura a ausência de dor e não o prazer.",
+        "autor": "Aristóteles",
+        "data": "01/03/2019"
+    },
+    {
+        "frase": "A realidade é meramente uma ilusão, ainda que bastante persistente.",
+        "autor": "Albert Einstein",
+        "data": "02/03/2019"
+    },
+    {
+        "frase": "A imaginação é mais importante que o conhecimento.",
+        "autor": "Albert Einstein",
+        "data": "02/03/2019"
+    },
+    {
+        "frase": "O mundo é um lugar perigoso de se viver, não por causa daqueles que fazem o mal, mas sim por causa daqueles que observam e deixam o mal acontecer.",
+        "autor": "Albert Einstein",
+        "data": "02/03/2019"
+    },
+    {
+        "frase": "Não tentes ser bem sucedido, tenta antes ser um homem de valor.",
+        "autor": "Albert Einstein",
+        "data": "02/03/2019"
+    },
+    {
+        "frase": "Se queres prever o futuro, estuda o passado.",
+        "autor": "Confúcio",
+        "data": "02/03/2019"
+    },
+    {
+        "frase": "O silêncio é um amigo que nunca trai.",
+        "autor": "Confúcio",
+        "data": "03/03/2019"
+    },
+    {
+        "frase": "Devemos julgar um homem mais pelas suas perguntas que pelas respostas.",
+        "autor": "Voltaire",
+        "data": "03/03/2019"
+    },
+    {
+        "frase": "No meio da dificuldade encontra-se a oportunidade.",
+        "autor": "Albert Einstein",
+        "data": "03/03/2019"
+    },
+    {
+        "frase": "Quem comete uma injustiça é sempre mais infeliz que o injustiçado.",
+        "autor": "Platão",
+        "data": "03/03/2019"
+    },
+    {
+        "frase": "Os homens erram, os grandes homens confessam que erraram.",
+        "autor": "Voltaire",
+        "data": "03/03/2019"
+    },
+    {
+        "frase": "Uma discussão prolongada significa que ambas as partes estão erradas.",
+        "autor": "Voltaire",
+        "data": "04/03/2019"
+    },
+    {
+        "frase": "É fazendo que se aprende a fazer aquilo que se deve aprender a fazer.",
+        "autor": "Aristóteles",
+        "data": "04/03/2019"
+    },
+    {
+        "frase": "O orgulho dos pequenos consiste em falar sempre de si próprios; o dos grandes em nunca falar de si.",
+        "autor": "Voltaire",
+        "data": "04/03/2019"
+    },
+    {
+        "frase": "Uma pessoa inteligente resolve um problema, um sábio o previne.",
+        "autor": "Albert Einstein",
+        "data": "04/03/2019"
+    },
+    {
+        "frase": "O homem inteligente aprende com seus próprios sofrimentos;O homem sábio aprende com os sofrimentos alheios.",
+        "autor": "Platão",
+        "data": "04/03/2019"
+    },
+    {
+        "frase": "Conhecer a si mesmo é o começo de toda sabedoria.",
+        "autor": "Aristóteles",
+        "data": "05/03/2019"
+    },
+    {
+        "frase": "Percebi que todo saber que eu procurava podia ser encontrado em mim mesmo ou no grande livro do mundo.",
+        "autor": "René Descartes",
+        "data": "05/03/2019"
+    },
+    {
+        "frase": "Sinto que mesmo na loucura do não saber, e da impossibilidade do ser, o impossível se torna somente um ponto de vista daqueles que não querem sonhar. E o sonho se faz possível para aqueles que querem acreditar.",
+        "autor": "Aristoteles Marques B. Neto",
+        "data": "05/03/2019"
+    },
+    {
+        "frase": "Quanto mais nos elevamos, menores parecemos aos olhos daqueles que não sabem voar.",
+        "autor": "Friedrich Nietzsche",
+        "data": "05/03/2019"
+    },
+    {
+        "frase": "Eu não procuro saber as respostas, procuro compreender as perguntas.",
+        "autor": "Confúcio",
+        "data": "05/03/2019"
+    },
+    {
+        "frase": "Nunca existiu uma grande inteligência sem uma veia de loucura.",
+        "autor": "Aristóteles",
+        "data": "06/03/2019"
+    },
+    {
+        "frase": "O homem erudito é um descobridor de fatos que já existem - mas o homem sábio é um criador de valores que não existem e que ele faz existir.",
+        "autor": "Albert Einstein",
+        "data": "06/03/2019"
+    },
+    {
+        "frase": "A inteligência é a insolência educada.",
+        "autor": "Aristóteles",
+        "data": "06/03/2019"
+    },
+    {
+        "frase": "Saber o que é correto e não o fazer é falta de coragem.",
+        "autor": "Confúcio",
+        "data": "06/03/2019"
+    },
+    {
+        "frase": "Somente os extremamente sábios e os extremamente estúpidos é que não mudam.",
+        "autor": "Confúcio",
+        "data": "06/03/2019"
+    },
+    {
+        "frase": "O sábio envergonha-se dos seus defeitos, mas não se envergonha de os corrigir.",
+        "autor": "Confúcio",
+        "data": "07/03/2019"
+    },
+    {
+        "frase": "Quem não sabe o que é a vida, como poderá saber o que é a morte?",
+        "autor": "Confúcio",
+        "data": "07/03/2019"
+    },
+    {
+        "frase": "Se não sabes, aprende; se já sabes, ensina.",
+        "autor": "Confúcio",
+        "data": "07/03/2019"
+    },
+    {
+        "frase": "Os homens são miseráveis, porque não sabem ver nem entender os bens que estão ao seu alcance.",
+        "autor": "Pitágoras",
+        "data": "07/03/2019"
+    },
+    {
+        "frase": "Não há nada bom nem mau a não ser estas duas coisas: a sabedoria que é um bem e a ignorância que é um mal.",
+        "autor": "Platão",
+        "data": "07/03/2019"
+    },
+    {
+        "frase": "No convívio com sábios e artistas facilmente nos enganamos no sentido oposto: não é raro encontrarmos por detrás dum sábio notável um homem medíocre, e muitas vezes por detrás de um artista medíocre - um homem muito notável.",
+        "autor": "Friedrich Nietzsche",
+        "data": "08/03/2019"
+    },
+    {
+        "frase": "Aquele que sabe mandar encontra sempre quem deva obedecer.",
+        "autor": "Friedrich Nietzsche",
+        "data": "08/03/2019"
+    },
+    {
+        "frase": "A parte que ignoramos é muito maior que tudo quanto sabemos.",
+        "autor": "Platão",
+        "data": "08/03/2019"
+    },
+    {
+        "frase": "É preciso que o discípulo da sabedoria tenha o coração grande e corajoso. O fardo é pesado e a viagem longa.",
+        "autor": "Confúcio",
+        "data": "08/03/2019"
+    },
+    {
+        "frase": "Conta-me o teu passado e saberei o teu futuro.",
+        "autor": "Confúcio",
+        "data": "08/03/2019"
+    },
+    {
+        "frase": "Devemos aprender durante toda a vida, sem imaginar que a sabedoria vem com a velhice.",
+        "autor": "Platão",
+        "data": "09/03/2019"
+    },
+    {
+        "frase": "O mestre disse a um dos seus alunos: Yu, queres saber em que consiste o conhecimento? Consiste em ter consciência tanto de conhecer uma coisa quanto de não a conhecer. Este é o conhecimento.",
+        "autor": "Confúcio",
+        "data": "09/03/2019"
+    },
+    {
+        "frase": "Na juventude deve-se acumular o saber. Na velhice fazer uso dele.",
+        "autor": "Jean-Jacques Rousseau",
+        "data": "09/03/2019"
+    },
+    {
+        "frase": "Saber é compreendermos as coisas que mais nos convêm.",
+        "autor": "Friedrich Nietzsche",
+        "data": "09/03/2019"
+    },
+    {
+        "frase": "Todos os homens se nutrem, mas poucos sabem distinguir os sabores.",
+        "autor": "Confúcio",
+        "data": "09/03/2019"
+    },
+    {
+        "frase": "Começamos a desconfiar das pessoas muito inteligentes quando ficam embaraçadas.",
+        "autor": "Friedrich Nietzsche",
+        "data": "10/03/2019"
+    },
+    {
+        "frase": "Aprende a viver bem, e bem saberás morrer.",
+        "autor": "Confúcio",
+        "data": "10/03/2019"
+    },
+    {
+        "frase": "O sábio como astrónomo. - Enquanto sentires as estrelas como algo que está «por cima de ti» não possuis ainda o olhar do homem que sabe.",
+        "autor": "Friedrich Nietzsche",
+        "data": "10/03/2019"
+    },
+    {
+        "frase": "Quem não conhece o valor das palavras não saberá conhecer os homens.",
+        "autor": "Confúcio",
+        "data": "10/03/2019"
+    },
+    {
+        "frase": "Não há nada na nossa inteligência que não tenha passado pelos sentidos.",
+        "autor": "Aristóteles",
+        "data": "10/03/2019"
+    },
+    {
+        "frase": "A espécie humana é a única que sabe que tem de morrer.",
+        "autor": "Voltaire",
+        "data": "11/03/2019"
+    },
+    {
+        "frase": "Aquele que reprime os ímpetos da cólera estará a coberto de qualquer perigo. É conveniente saber sufocar, ou ao menos moderar a cólera, o temor, a tristeza, a alegria, e outras agitações profundas que podem alterar a retidão da alma.",
+        "autor": "Confúcio",
+        "data": "11/03/2019"
+    },
+    {
+        "frase": "Aprende a viver como deves, e saberás morrer bem.",
+        "autor": "Confúcio",
+        "data": "11/03/2019"
+    },
+    {
+        "frase": "Todos os homens, por natureza, desejam saber.",
+        "autor": "Aristóteles",
+        "data": "11/03/2019"
+    },
+    {
+        "frase": "A juventude é a época de se estudar a sabedoria; a velhice é a época de a praticar.",
+        "autor": "Jean-Jacques Rousseau",
+        "data": "11/03/2019"
+    },
+    {
+        "frase": "O esforço para unir a sabedoria e o poder raramente dá certo e somente por tempo muito curto.",
+        "autor": "Albert Einstein",
+        "data": "12/03/2019"
+    },
+    {
+        "frase": "Não sei ver nada do que vejo; vejo bem apenas o que relembro e tenho inteligência apenas nas minhas lembranças.",
+        "autor": "Jean-Jacques Rousseau",
+        "data": "12/03/2019"
+    },
+    {
+        "frase": "O sábio procura a ausência de dor, e não o prazer.",
+        "autor": "Aristóteles",
+        "data": "12/03/2019"
+    },
+    {
+        "frase": "Quem não sabe encontrar o caminho para o «seu» ideal vive de um modo mais leviano e insolente que o homem sem ideal.",
+        "autor": "Friedrich Nietzsche",
+        "data": "12/03/2019"
+    },
+    {
+        "frase": "O homem retrata-se inteiramente na alma; para saber o que é e o que deve fazer, deve olhar-se na inteligência, nessa parte da alma na qual fulge um raio da sabedoria divina.",
+        "autor": "Platão",
+        "data": "12/03/2019"
+    },
+    {
+        "frase": "Imaginar é mais importante que saber, pois o conhecimento é limitado enquanto a imaginação abraça o Universo.",
+        "autor": "Albert Einstein",
+        "data": "13/03/2019"
+    },
+    {
+        "frase": "Nunca se conseguirá ser sábio se primeiro não se foi traquinas.",
+        "autor": "Jean-Jacques Rousseau",
+        "data": "13/03/2019"
+    },
+    {
+        "frase": "Sabei que o segredo das artes é corrigir a natureza.",
+        "autor": "Voltaire",
+        "data": "13/03/2019"
+    },
+    {
+        "frase": "O homem fala sobre o que sabe, a mulher sobre aquilo que gostaria.",
+        "autor": "Jean-Jacques Rousseau",
+        "data": "13/03/2019"
+    },
+    {
+        "frase": "Os reis são para os seus ministros como os cornudos para as esposas: nunca sabem o que se passa.",
+        "autor": "Voltaire",
+        "data": "13/03/2019"
+    },
+    {
+        "frase": "Qualquer tolo inteligente consegue fazer coisas maiores e mais complexas. É necessário um toque de gênio -- e muita coragem para ir na direção oposta.",
+        "autor": "Albert Einstein",
+        "data": "14/03/2019"
+    },
+    {
+        "frase": "Aos dezesseis anos, o adolescente sabe o que é sofrer porque ele próprio já experimentou o sofrimento, mas ele não percebe ainda que outros seres também sofrem.",
+        "autor": "Jean-Jacques Rousseau",
+        "data": "14/03/2019"
+    },
+    {
+        "frase": "Odeio os livros; ensinam apenas a falar daquilo que não se sabe.",
+        "autor": "Jean-Jacques Rousseau",
+        "data": "14/03/2019"
+    },
+    {
+        "frase": "Não será uma vergonha que os fanáticos sejam zelosos e que os sábios se desmazelem?",
+        "autor": "Voltaire",
+        "data": "14/03/2019"
+    },
+    {
+        "frase": "Só os trabalhadores é que sabem qual é o preço do tempo; sempre dele se fazem pagar.",
+        "autor": "Voltaire",
+        "data": "14/03/2019"
+    },
+    {
+        "frase": "Eu aceito o mesmo Deus que o nosso grande Spinoza chama a alma do Universo, não creio num Deus que se preocupe com as nossas necessidades pessoais.",
+        "autor": "Albert Einstein",
+        "data": "15/03/2019"
+    },
+    {
+        "frase": "O santo Império Romano não era santo, nem Império e nem mesmo Romano.",
+        "autor": "Voltaire",
+        "data": "15/03/2019"
+    },
+    {
+        "frase": "Faz aquilo que achares justo mesmo que o outro pense diferente.",
+        "autor": "Pitágoras",
+        "data": "15/03/2019"
+    },
+    {
+        "frase": "Só se vive a experiência de sí mesmo.",
+        "autor": "Nietzsche",
+        "data": "15/03/2019"
+    },
+    {
+        "frase": "Para ver muitas coisas é preciso desaprender a olhar para si mesmo. Essa dureza é necessária para escalar montanhas.",
+        "autor": "Nietzsche",
+        "data": "15/03/2019"
+    }
 ]
